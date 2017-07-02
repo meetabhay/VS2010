@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace MVC
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("First Git Repo from VS 2010");
+        }
+    }
+}
