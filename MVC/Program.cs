@@ -10,6 +10,8 @@ namespace MVC
         static void Main(string[] args)
         {
             Console.WriteLine("First Git Repo from VS 2010");
+            Console.WriteLine("Additional Changes");
+
         }
     }
 }
