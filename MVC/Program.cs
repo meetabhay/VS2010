@@ -12,6 +12,7 @@ namespace MVC
             Console.WriteLine("First Git Repo from VS 2010");
             Console.WriteLine("Additional Changes");
             Console.WriteLine("Develop-Major Branch - Main Class");
+            Console.WriteLine("Changes after stash");
         }
     }
 }
